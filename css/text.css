@@ -1,0 +1,155 @@
+@import url(http://fonts.googleapis.com/css?family=Cantarell:400,700&v2);
+
+body {
+    font: 0.80em/1.5em Cantarell,"Droid Sans","DejaVu Sans","Bitstream Vera Sans",Verdana,sans-serif
+}
+
+#content-header h2 {
+    font-size: 1.4em;
+    font-weight: normal;
+    line-height: 1em;
+    margin: 0;
+    padding: 10px 0 10px 10px;
+    color: #3c719d;
+}
+
+#content {
+    color: #333;
+}
+
+a {
+    color: #3c719d;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #ce7b00;
+}
+
+code {
+    font: 0.80em "Droid Sans Mono", "Consolas", "DejaVu Sans Mono", monospace;
+    background: #f8f8f8;
+    border: solid #ddd;
+    border-width: 1px;
+}
+
+pre {
+    font: "Droid Sans Mono", "Consolas", "DejaVu Sans Mono", monospace;
+    background: #f8f8f8;
+    padding: 5px;
+    margin: 1em;
+    border: solid #ddd;
+    border-width: 1px 1px 1px 5px;
+}
+
+pre code {
+    border: none;
+}
+
+#footer {
+    color: #3c719d;
+}
+
+h3 {
+    color: #46830b /*#3c719d*/;
+    font-weight: normal;
+    font-size: 1.3em;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    line-height: 1.5em;
+}
+
+h5 {
+    margin-bottom: .25em;
+}
+
+h3:first-child,
+p:first-child {
+    margin-top: 0;
+    padding-top: 0;
+}
+
+p.latest-version {
+    margin-top: 0;
+    border: 1px solid #fc0;
+    background: #ffc;
+    padding: .5em;
+    font-weight: bold;
+    font-size: 1.15em;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+ol {
+    margin: 0 0 0 .5em;
+    padding: 0;
+}
+
+li {
+    margin-left: 1.5em;
+}
+
+/* News list on home page */
+
+#news .date {
+    text-align: right;
+    color: #777;
+    font-style: italic;
+}
+
+#news p a {
+    /*color: #333 !important;*/
+    font-weight: normal !important;
+}
+
+/* Quotes List */
+
+dl dt {
+    font-weight: bold;
+    margin-top: 1em;
+}
+
+dl dd {
+    margin: 0;
+    font-style: italic;
+}
+
+dl.quotes dt {
+    margin-top: 1em;
+}
+
+dl.quotes dt a:before {
+    content: open-quote;
+}
+
+dl.quotes dt a:after {
+    content: close-quote;
+}
+
+dl.quotes dd {
+    margin: 0;
+    font-style: italic;
+}
+
+dl.faq dd {
+    font-style: normal;
+    margin-bottom: 1.5em;
+}
+
+div.release-shot div {
+    font-style: italic;
+    font-size: .85em;
+    color: #666;
+    line-height: 1.3em;
+}
+
+blockquote {
+    font-style: italic;
+}
+
+

@@ -1,0 +1,20 @@
+name: Banshee
+description: Banshee Media Player
+url: http://banshee.fm
+rss_path : /feed/
+atom_path : /feed/atom/
+
+markdown: rdiscount
+permalink: pretty
+relative_permalinks: false
+
+paginate: 20
+paginate_path: "/blog/page:num"
+
+release-info:
+  banshee:
+    name: Banshee
+    version: 2.6.1
+    display-version: 2.6.1
+    date:  "April 16, 2013"
+    tarball: "http://ftp.gnome.org/pub/GNOME/sources/banshee/2.6/banshee-2.6.1.tar.xz"

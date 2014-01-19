@@ -1,0 +1,8 @@
+---
+layout: post
+title: Banshee 1.5.6
+tags:
+- news
+---
+
+Banshee 1.5.6 (aka 1.6 RC2) was just released, with lots and lots of bug fixes.  Help test it, report bugs, and make Banshee 1.6 as solid as it is sexy!  [Get it now](/download)!

@@ -1,0 +1,50 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>{{ site.name }} » {{ page.title}}</title>
+  
+{% include html_head %}
+
+{% include analytics %}
+{% include google-search %}
+
+</head>
+<body>
+<div id="page">
+
+  {% include page_header %}
+  
+  <div id="content-header"><h2>{% if page.long-title %}{{ page.long-title }}{% else %}{{ page.title }}{% endif %}</h2></div>
+
+  <div id="wrapper">
+    <div id="content">
+
+    {{ content }}
+
+    </div><!--#content-->
+
+    <div id="sidebar">
+      <div class="box menu">
+        <ul>
+          {% for post in site.categories.archives %}
+            {% if page.url == post.url %}
+            <li class="current_page_item"><a href="{{post.url | remove:'index.html'}}">{{post.title}}</a></li>
+            {% else %}
+            <li><a href="{{post.url | remove:'index.html'}}">{{post.title}}</a></li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+
+    <div id="footer">
+      {% include footer %}
+    </div>
+    
+  </div><!--#wrapper-->
+
+{% include page_bottom %}
+
+</div><!--#page-->
+</body>
+</html>
