@@ -20,7 +20,7 @@ We have created this [guide](/support/guide) to help you discover features and g
 
 If you need help, have a bug to report, or have an idea, it's important to search to see if your issue has been addressed before.
 
-<form action="http://www.google.com/search" onsubmit="this['q'].value='(site:http://banshee-project.org OR site:http://mail.gnome.org/archives/banshee-list/) ' + this['ignorethis'].value;">
+<form action="http://www.google.com/search" onsubmit="this['q'].value='(site:http://banshee.fm OR site:http://mail.gnome.org/archives/banshee-list/) ' + this['ignorethis'].value;">
 	<p><strong>Search the mailing list archives and the website:</strong><br />
 	<input type="hidden" name="q" />
 	<input type="text" name="ignorethis" />
