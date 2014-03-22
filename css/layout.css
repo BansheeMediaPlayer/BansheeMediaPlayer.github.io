@@ -167,6 +167,7 @@ table.download-opensuse tr th,
 table.download-opensuse tr td {
     width: 50% !important;
     padding-left: 5px;
+    text-align: left;
 }
 
 table.download-opensuse tr th:first-child,
