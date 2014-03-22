@@ -24,7 +24,7 @@ the successor to Banshee 2.4.
 
   * Hardware support for USB mass storage devices.
 
-![Screenshot showing Banshee on OSX syncing with an USB mass storage device](http://download.banshee.fm/shots/2.6.0/osx_usb_mass_storage-700.png)
+<div class="release-shot"><img src="/images/shots/2.6.0/osx_usb_mass_storage-700.png" alt="Screenshot showing Banshee on OSX syncing with an USB mass storage device"></div>
 
   * Handle opening files directly in Finder.
 

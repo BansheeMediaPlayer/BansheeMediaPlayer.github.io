@@ -50,7 +50,8 @@ you can use it in your desktop environment now, just by clicking
 in the Media Panel option under the View menu (this extension is
 now enabled by default). There are still some visual issues to be addressed, but it is already usable.
 This is a sample screenshot:
-<img alt="New MediaPanel UI" src="http://download.banshee.fm/shots/2.9.1/media-panel.jpg" title="New MediaPanel UI" width="720" />
+
+<div class="release-shot"><img src="/images/shots/2.9.1/media-panel.jpg" title="New MediaPanel UI" alt="New MediaPanel UI" width="720" /></div>
 
 ### Other Enhancements
 

@@ -411,7 +411,7 @@ dl.features span.new {
 /* Release Notes Screenshots */
 
 div.release-shot {
-
+    text-align: center;
 }
 
 div.release-shot.right {
@@ -433,9 +433,3 @@ br.clear {
 br.clear + h4 {
     margin-top: 0;
 }
-
-div.digg-button {
-    text-align: center;
-    margin-top: 2em;
-}
-
