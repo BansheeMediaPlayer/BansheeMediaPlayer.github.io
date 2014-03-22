@@ -1,0 +1,226 @@
+---
+layout: page-release
+permalink: /download/archives/2.9.1/
+title: Banshee 2.9.1
+---
+
+  * **Release Date:** 2014-03-18
+  * **Source Tarball:** [banshee-2.9.1.tar.xz](http://ftp.gnome.org/pub/GNOME/sources/banshee/2.9/banshee-2.9.1.tar.xz)
+  * **Release Information:**
+[NEWS](http://ftp.gnome.org/pub/GNOME/sources/banshee/2.9/banshee-2.9.1.news),
+[sha256sum](http://ftp.gnome.org/pub/GNOME/sources/banshee/2.9/banshee-2.9.1.sha256sum)
+
+[![Download Now](/images/download-button.png)](/download)
+
+Banshee 2.9.1 is the culmination of five months' work by 17 developers,
+21 translators and dozens of bug reporters and testers. It is a development
+release, the second of the 2.9.x releases leading up to our future stable
+release Banshee 3.0.
+
+### New features
+
+#### GStreamer 1.x compatibility
+
+This is the first official upstream release compatible with versions of
+GStreamer 1.0 or newer.
+
+#### Production-ready GStreamerSharp playback-engine backend, now default
+
+Our managed backend (that already allowed us to have playback working
+in the Windows platform) has been migrated to work with the revamped
+GStreamerSharp bindings (GObject-Introspection based, and capable of
+binding GStreamer 1.0 or newer) and is now the default one for all
+platforms.
+
+This paves the way to finish the long-standing goal of completely
+removing lower-level languages like C from our codebase, to lower
+the barrier of entry to new contributors, reduce complexity and
+increase stability.
+
+You can still use the optional unmanaged GStreamer backend, but
+before doing so we encourage you to provide us any feedback that
+you may have about the managed one (reporting bugs or writing to
+our forums or mailing lists), because we will deprecate this one
+very soon.
+
+#### New "MediaPanel" UI, formerly called "MeeGo MediaPanel"
+
+The MeeGo specific UI has been now been renamed to MediaPanel and
+you can use it in your desktop environment now, just by clicking
+in the Media Panel option under the View menu (this extension is
+now enabled by default). There are still some visual issues to be addressed, but it is already usable.
+This is a sample screenshot:
+<img alt="New MediaPanel UI" src="http://download.banshee.fm/shots/2.9.1/media-panel.jpg" title="New MediaPanel UI" width="720" />
+
+### Other Enhancements
+
+  * Notifications: use notify-sharp-3.0 in the system if available
+  * [bgo#690010](http://bugzilla.gnome.org/show_bug.cgi?id=690010): enable tests by default if NUnit dependency is found
+  * WebBrowser: drop dependency on 'libsoup-gnome', which was deprecated
+  * Video: default smart playlists are now invisible when empty, like Music ones
+
+### Notable Bug Fixes (35 fixed since 2.9.0!)
+
+  * [bgo#692374](http://bugzilla.gnome.org/show_bug.cgi?id=692374): require dbus-glib-1 to make sure to avoid GConf crashes
+  * [bgo#725870](http://bugzilla.gnome.org/show_bug.cgi?id=725870): avoid hang when disconnecting Nexus 5
+  * [bgo#724635](http://bugzilla.gnome.org/show_bug.cgi?id=724635): don't crash at iPod sync
+  * [bgo#726336](http://bugzilla.gnome.org/show_bug.cgi?id=726336): avoid redundancy in submenu label text
+  * [bgo#725185](http://bugzilla.gnome.org/show_bug.cgi?id=725185): avoid importing non-readable files
+  * [bgo#696520](http://bugzilla.gnome.org/show_bug.cgi?id=696520): avoid pointless long->int runtime casts
+  * DBus: don't try to connect in GrabDefaultName() if dbus is disabled
+  * [bgo#724730](http://bugzilla.gnome.org/show_bug.cgi?id=724730): avoid aborting MTP access when busy
+  * [bgo#724678](http://bugzilla.gnome.org/show_bug.cgi?id=724678): tracks which were in nested folders under Music/ not shown
+  * [bgo#724656](http://bugzilla.gnome.org/show_bug.cgi?id=724656): fix potential crashers when ejecting DAP source
+  * [bgo#724645](http://bugzilla.gnome.org/show_bug.cgi?id=724645): fix crash at shutdown if MTP was mounted
+  * [bgo#627391](http://bugzilla.gnome.org/show_bug.cgi?id=627391): [gapless] fix smooth transition for Repeat-Single mode
+  * [bgo#671221](http://bugzilla.gnome.org/show_bug.cgi?id=671221): fix Repeat-All mode if there are less than 3 tracks and Shuffle is ON
+  * [bgo#724515](http://bugzilla.gnome.org/show_bug.cgi?id=724515): fix Repeat-OFF mode when Shuffle is ON
+  * [bgo#723889](http://bugzilla.gnome.org/show_bug.cgi?id=723889): avoid notifications-related warning printed in the log
+  * [bgo#723040](http://bugzilla.gnome.org/show_bug.cgi?id=723040): DapService: avoid freezing Banshee when unmapping device
+  * [bgo#679938](http://bugzilla.gnome.org/show_bug.cgi?id=679938): [gapless] Repeat always on
+  * [bgo#674293](http://bugzilla.gnome.org/show_bug.cgi?id=674293): [gapless] Banshee ignores "stop when finished"
+  * [bgo#621222](http://bugzilla.gnome.org/show_bug.cgi?id=621222): [gapless] Playcount shouldn't be incremented as soon as song plays
+  * [bgo#723005](http://bugzilla.gnome.org/show_bug.cgi?id=723005): fix path of image referenced in Help
+  * [bgo#722731](http://bugzilla.gnome.org/show_bug.cgi?id=722731): avoid highlighting wrong track after invalid track was played
+  * [bgo#636992](http://bugzilla.gnome.org/show_bug.cgi?id=636992): avoid misleading [gapless] token in log
+  * [bgo#722565](http://bugzilla.gnome.org/show_bug.cgi?id=722565): advice about nunit-console not available instead of failing
+  * [bgo#720359](http://bugzilla.gnome.org/show_bug.cgi?id=720359): avoid 'URI too large' errors at LastFM scrobbling
+  * [bgo#722947](http://bugzilla.gnome.org/show_bug.cgi?id=722947): prevent a crash when dealing with Nexus4
+  * [bgo#722209](http://bugzilla.gnome.org/show_bug.cgi?id=722209): avoid crash when connecting Nexus4
+  * [bgo#722219](http://bugzilla.gnome.org/show_bug.cgi?id=722219): avoid crash when disconnecting Nexus4
+  * [bgo#664887](http://bugzilla.gnome.org/show_bug.cgi?id=664887): fail faster if --enable-tests used and NUnit was not found
+  * [bgo#721203](http://bugzilla.gnome.org/show_bug.cgi?id=721203): CD audio source doesn't show up when inserting it
+  * [bgo#712656](http://bugzilla.gnome.org/show_bug.cgi?id=712656): pkg-config files were still pointing to GTK2 instead of GTK3
+  * [bgo#710266](http://bugzilla.gnome.org/show_bug.cgi?id=710266): PlayQueue: fix another GtkCRITICAL at shutdown
+  * [bgo#710423](http://bugzilla.gnome.org/show_bug.cgi?id=710423): Fix build of the SoundMenu extension
+  * [bgo#710475](http://bugzilla.gnome.org/show_bug.cgi?id=710475): fix build in Osx by avoiding optional parameters
+  * [bgo#710266](http://bugzilla.gnome.org/show_bug.cgi?id=710266): avoid GtkCRITICAL in the console at shutdown
+  * [bgo#709717](http://bugzilla.gnome.org/show_bug.cgi?id=709717): fix ListView scrolling with mouse wheel (regression from GTK2)
+
+#### Known issues
+
+Unfortunately the major architectural change to GTK3 caused some problems that we're still looking into:
+
+  * [bgo#709617](http://bugzilla.gnome.org/show_bug.cgi?id=709617): No alternating colors in the ListView
+  * [bgo#709619](http://bugzilla.gnome.org/show_bug.cgi?id=709619): ListView header decoration do not match regular TreeView
+  * [bgo#666452](http://bugzilla.gnome.org/show_bug.cgi?id=666452): Drag and drop crashes banshee on gtk3 branch
+  * Ubuntu: No text on the main (left) source switching pad when selecting a source (fixed already in Ubuntu 13.10).
+
+#### Banshee has a lot more to offer! Check out the previous major release notes...
+
+  * [Read about features added in Banshee 2.9.0](/download/archives/2.9.0)
+  * [Read about features added in Banshee 2.6.0](/download/archives/2.6.0)
+  * [Read about features added in Banshee 2.4.0](/download/archives/2.4.0)
+  * [Read about features added in Banshee 2.2.0](/download/archives/2.2.0)
+  * [Read about features added in Banshee 2.0.0](/download/archives/2.0.0)
+  * [Read about features added in Banshee 1.8.0](/download/archives/1.8.0)
+  * [Read about features added in Banshee 1.6.0](/download/archives/1.6.0)
+  * [Read about features added in Banshee 1.4.0](/download/archives/1.4.0)
+
+### Dependencies
+
+  * Mono 2.8.2 (.NET 2.0 Profile / gmcs)
+  * SQlite 3.4
+  * Gtk# 2.99.1
+  * GStreamer 1.0.0
+  * GStreamerSharp 0.99.0
+  * GLib 2.22
+  * dbus-sharp 0.7
+  * dbus-sharp-glib 0.5
+  * Mono.Addins (mono-addins) 0.6.2
+  * TagLib# (taglib-sharp) >= 2.0.3.7
+  * Required to build default feature stack:
+    * libmtp >= 0.3.0
+    * mono-zeroconf >= 0.8.0
+    * webkit-1.0 >= 1.2.2
+    * gdata-sharp-youtube >= 1.4
+    * gio-sharp >= 2.99.1, gudev-sharp and gkeyfile-sharp
+    * libgpod-sharp >= 0.7.95
+    * Mono.Upnp >= 0.1
+    * dbus-glib >= 0.80
+  * Run-time requirements for default feature stack:
+    * udev
+    * media-player-info
+    * Brasero >= 0.8.1
+    * Avahi
+    * gst-plugins-bad (providing the bpmdetect GStreamer plugin)
+
+### Community
+
+#### Contributors For This Release
+
+The following people directly contributed to the release of this version of Banshee. Without their help, there would be no release!
+
+> Andres G. Aragoneses, Andrey Gankov, Bertrand Lorentz, Chow Loong Jin,
+Dmitriy Petukhov, Frank Ziegler, Marcin Kolny, Michael Catanzaro,
+Michael Foster, Michał Sawicz, Mirco Bauer, Nicholas Little, Olivier
+Dufour, Phil Trimble, Roderich Schupp Sebastian Dröge, Stephan
+Sundermann.
+
+The following people contributed updated translations to this release. Without them, our project's reach would be much more limited.
+
+> Andika Triwidada, Antonio Fernandes C. Neto, Aurimas Černius, Benjamin
+Steinwender, Balázs Úr, Cheng-Chia Tseng, Daniel Mustieles, Dimitris
+Spingos, Enrico Nicoletto, Fran Diéguez, Jordi Mas, Marek Černocký,
+Martin Srebotnjak, Matej Urbančič, michaeljayt, Мирослав Николић,
+Piotr Drąg, Rafael Ferreira, Ricardo Barbosa, Seong-ho Cho, Tiago S.
+
+
+#### Contributors In Past Releases
+
+> Aaron Bockover, Abner Silva, Adam Lofts, Age Bosma, Alan McGovern,
+Alban Crequy, Alberto Gonzalez, Alex Bennee, Alex Kloss, Alex Launi,
+Alex Mauer, Alex Willmy, Alex Willmy, Alexander Hixon,
+Alexander Kojevnikov, Alexandros Frantzis, Alp Toker, Anders Petersson,
+Andre Klapper, Andrea Cimitan, Andreas Neustifter, Andreas Nilsson,
+Andrew Conkling, Andrey Gankov, Andrés G. Aragoneses,
+Andrés G. Aragoneses, Andy Midgette, Andy Street, Aran Cox, Arthur Carli,
+Arun Raghavan, Aurélien Mino, Aydemir Ulaş Şahin, Ben Maurer,
+Benjamín Valero Espinosa, Bertrand Lorentz, Bill Dawson, Bob Copeland,
+Bojan Rajkovic, Brad Taylor, Brandon Perry, Brian Lucas, Brian Nickel,
+Brian Teague, Carlos Sanchez, Chase Geigle, Chow Loong Jin, Chris Howie,
+Chris Jones, Chris Lahey, Chris Toshok, Chris Turchin, Christian Hergert,
+Christian Krause, Christoph Burgdorf, Christopher James Halse Rogers,
+Claude Paroz, Cody Russell, Corec, Cosmin Banu, Dan Wilson, Dan Winship,
+Daniel Munkton, Daniel Siegel, David Nielsen, David Spreen, David Stone,
+Diego E. Pettenò, Diego Fernandez, Dinh Ngoc Tu, Dmitriy Petukhov,
+Dougal Stanton, Dustin C. Hatch, Eitan Isaacson, Elena Grassi,
+Eoin Hennessy, Eric Butler, Erik Schmidt, Fabian Jost, Fabrice Bellet,
+Felipe Almeida Lessa, Felipe Castillo, Fernando Casanova, Florent Thoumie,
+Frank Ziegler, Fredrik Hedberg, Félix Velasco, Gabriel Burt,
+Garrett LeSage, Ghislain Lacroix, Götz Waschk, Haitao Feng, Hajime Mizuno,
+Hans Oesterholt, Hans Petter Jansson, Harold Schreckengost, Iain Lane,
+Igor Guerrero Fonseca, Ilya Konstantinov, Ivan N. Zlatev, Jack Deslippe,
+Jakub Steiner, James Boocock, James Otting, James Willcox,
+Jan Arne Petersen, Jason Conti, Jason Taylor, Javon Harper, Jeff Tickle,
+Jeff Wheeler, Jensen Somers, Jeroen Budts, Jo Shields, Johannes Koch,
+Johannes Kuhn, John Millikin, Jonas Urth Olsen, Jordi Mas, Jorge Castro,
+Julien Moutte, Juri Pakaste, Ján Sokoly, Jérémie Laval,
+K. Vishnoo Charan Reddy, Ken Vandine, Kentaro KAZUHAMA, Kevin Anthony,
+Kevin Duffus, Koichi Akabe, Konstantin Oshiyko, Larry Ewing,
+Lauri Kotilainen, Lukas Lipka, Mackenan Grassi, Marcin Kolny, Marijn Ros,
+Mark Busby, Mark Saunders, Martin Pitt, Matt Enright, Matt Sturgeon,
+Michael Catanzaro, Michael Farrell, Michael Foster, Michael Kaiser,
+Michael Martin-Smucker, Michael Monreal, Michael Monreal, Michał Sawicz,
+Miguel de Icaza, Mike Gemünde, Mike Urbanski, Mirco Bauer,
+Moritz Schallaböck, Nathan Palmer, Neil Loknath, Nicholas Doyle,
+Nicholas Little, Nicholas Parker, Nicolò Chieffo, Nils Naumann,
+Nuno Araujo, Oben Sonne, Okano Takayoshi, Olivier Dufour, Oscar Forero,
+Pacho Ramos, Patrick van Staveren, Paul Cutler, Paul Lange, Pavel Antonov,
+Pavol Babincak, Pepijn van de Geer, Pete Johanson, Peter de Kraker,
+Phil Trimble, Pratik Patel, Przemysław Grzegorczyk, Raimo Radczewski,
+Rashid Khan, Robin Stocker, Roderich Schupp, Rodney Dawes,
+Romain Tartière, Ruben Vermeersch, Ryan Collier, Samuel Gyger,
+Sandy Armstrong, Scott Peterson, Sebastian Dröge, Shaun McCance,
+Sjoerd Simons, Stephan Sundermann, Tim Fisken, Tim Yamin, Timo Dörr,
+Timothy Arceri, Tobias Arrskog, Tobias Mueller, Todd Berman,
+Tomasz Maczynski, Travis Glenn Hansen, Travis Patterson, Travis Reitter,
+Trey Ethridge, Udesh Liyanaarachchi, Valentin Sawadski, Victor Vargas,
+Will Farrington, Will Thompson, William Friesen, William Pettersson,
+William Witt, Wouter Bolsterlee, Yuuto Tokunaga, Zhou Ting.
+
+#### Reporting Bugs, Joining the Community
+
+If you encounter any bad behavior with this release, please do not hesitate to [file bugs](/contribute/file-bugs/)!
+
+We welcome new contributors - developers, translators, artists, writers, support gurus - to join our community.  [Join us!](/contribute)
