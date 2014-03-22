@@ -1,0 +1,472 @@
+<?xml version="1.0"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>GUADEC 2007</title>
+    <link>http://2007.guadec.org</link>
+    <description><![CDATA[Videos of talks given in 2007 at the GNOME Users and Developers European Conference held in Birmingham, UK.]]></description>
+    <generator>VimAndMe</generator>
+
+    <language>en-us</language>
+    <itunes:keywords>GNOME, Linux, Free Software, Open Source</itunes:keywords>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>no</itunes:explicit>
+    <!--<image>
+        <url>http://www.gnome.org/css/gnome.png</url>
+        <title>GNOME</title>
+        <link>http://www.gnome.org</link>
+    </image>-->
+    <lastBuildDate>Wed, 22 May 2008 19:25:05 -0400</lastBuildDate>
+
+    <item>
+      <title>Anne Østergaard - People are our most important asset</title>
+      <description><![CDATA[Why Organizational or Corporate Culture in FLOSS Organisations Matters]]></description>
+      <pubDate>Wed, 21 May 2008 19:25:05 -0400</pubDate>
+      <link>http://2007.guadec.org/</link>
+      <guid>http://download.gnome.org/teams/guadec/2007/videos/Anne%20%c3%98stergaard%20-%20People%20are%20our%20most%20important%20asset%20-%20Why%20Organizational%20or%20Corporate%20Culture%20in%20FLOSS%20Organisations%20Matters.ogg</guid>
+      <itunes:keywords>GNOME, Linux, Free Softare, Open Source</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://download.gnome.org/teams/guadec/2007/videos/Anne%20%c3%98stergaard%20-%20People%20are%20our%20most%20important%20asset%20-%20Why%20Organizational%20or%20Corporate%20Culture%20in%20FLOSS%20Organisations%20Matters.ogg" length="0" type="video/ogg"/>
+    </item>
+
+    <item>
+      <title>Ari Jaaksi - Nokia, maemo, and stuff</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Wed, 21 May 2008 19:25:05 -0400</pubDate>
+      <link>http://2007.guadec.org/</link>
+      <guid>http://download.gnome.org/teams/guadec/2007/videos/Ari%20Jaaksi%20-%20Nokia,%20maemo,%20and%20stuff.ogg</guid>
+      <itunes:keywords>GNOME, Linux, Free Softare, Open Source</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://download.gnome.org/teams/guadec/2007/videos/Ari%20Jaaksi%20-%20Nokia,%20maemo,%20and%20stuff.ogg" length="0" type="video/ogg"/>
+    </item>
+
+    <item>
+      <title>Geodata standards, GeoClue project</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Wed, 21 May 2008 19:25:05 -0400</pubDate>
+      <link>http://2007.guadec.org/</link>
+      <guid>http://download.gnome.org/teams/guadec/2007/videos/Geodata%20standards,%20GeoClue%20project.ogg</guid>
+      <itunes:keywords>GNOME, Linux, Free Softare, Open Source</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://download.gnome.org/teams/guadec/2007/videos/Geodata%20standards,%20GeoClue%20project.ogg" length="0" type="video/ogg"/>
+    </item>
+
+    <item>
+      <title>James Vasile - Legal Issues and Free Software</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Wed, 21 May 2008 19:25:05 -0400</pubDate>
+      <link>http://2007.guadec.org/</link>
+      <guid>http://download.gnome.org/teams/guadec/2007/videos/James%20Vasile%20-%20Legal%20Issues%20and%20Free%20Software.ogg</guid>
+      <itunes:keywords>GNOME, Linux, Free Softare, Open Source</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://download.gnome.org/teams/guadec/2007/videos/James%20Vasile%20-%20Legal%20Issues%20and%20Free%20Software.ogg" length="0" type="video/ogg"/>
+    </item>
+
+    <item>
+      <title>Jamie McCracken - Tracker and the next generation desktop</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Wed, 21 May 2008 19:25:05 -0400</pubDate>
+      <link>http://2007.guadec.org/</link>
+      <guid>http://download.gnome.org/teams/guadec/2007/videos/Jamie%20McCracken%20-%20Tracker%20and%20the%20next%20generation%20desktop.ogg</guid>
+      <itunes:keywords>GNOME, Linux, Free Softare, Open Source</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://download.gnome.org/teams/guadec/2007/videos/Jamie%20McCracken%20-%20Tracker%20and%20the%20next%20generation%20desktop.ogg" length="0" type="video/ogg"/>
+    </item>
+
+    <item>
+      <title>Jim Krehl - The New Main Menu: An Interactive Alternative to Hierarchy</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Wed, 21 May 2008 19:25:05 -0400</pubDate>
+      <link>http://2007.guadec.org/</link>
+      <guid>http://download.gnome.org/teams/guadec/2007/videos/Jim%20Krehl%20-%20The%20New%20Main%20Menu:%20An%20Interactive%20Alternative%20to%20Hierarchy.ogg</guid>
+      <itunes:keywords>GNOME, Linux, Free Softare, Open Source</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://download.gnome.org/teams/guadec/2007/videos/Jim%20Krehl%20-%20The%20New%20Main%20Menu:%20An%20Interactive%20Alternative%20to%20Hierarchy.ogg" length="0" type="video/ogg"/>
+    </item>
+
+    <item>
+      <title>Joe Shaw - Too Many Metas: A 10,000 ft. view on building a metadata desktop</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Wed, 21 May 2008 19:25:05 -0400</pubDate>
+      <link>http://2007.guadec.org/</link>
+      <guid>http://download.gnome.org/teams/guadec/2007/videos/Joe%20Shaw%20-%20Too%20Many%20Metas:%20A%2010,000%20ft.%20view%20on%20building%20a%20metadata%20desktop.ogg</guid>
+      <itunes:keywords>GNOME, Linux, Free Softare, Open Source</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://download.gnome.org/teams/guadec/2007/videos/Joe%20Shaw%20-%20Too%20Many%20Metas:%20A%2010,000%20ft.%20view%20on%20building%20a%20metadata%20desktop.ogg" length="0" type="video/ogg"/>
+    </item>
+
+    <item>
+      <title>Mirco Müller - lowfat, a possible path towards GNOME 3.0_4.0</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Wed, 21 May 2008 19:25:05 -0400</pubDate>
+      <link>http://2007.guadec.org/</link>
+      <guid>http://download.gnome.org/teams/guadec/2007/videos/Mirco%20M%c3%bcller%20-%20lowfat,%20a%20possible%20path%20towards%20GNOME%203.0_4.0.ogg</guid>
+      <itunes:keywords>GNOME, Linux, Free Softare, Open Source</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://download.gnome.org/teams/guadec/2007/videos/Mirco%20M%c3%bcller%20-%20lowfat,%20a%20possible%20path%20towards%20GNOME%203.0_4.0.ogg" length="0" type="video/ogg"/>
+    </item>
+
+    <item>
+      <title>Philippe Normand - Elisa: Media-Center for masses</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Wed, 21 May 2008 19:25:05 -0400</pubDate>
+      <link>http://2007.guadec.org/</link>
+      <guid>http://download.gnome.org/teams/guadec/2007/videos/Philippe%20Normand%20-%20Elisa:%20Media-Center%20for%20masses.ogg</guid>
+      <itunes:keywords>GNOME, Linux, Free Softare, Open Source</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://download.gnome.org/teams/guadec/2007/videos/Philippe%20Normand%20-%20Elisa:%20Media-Center%20for%20masses.ogg" length="0" type="video/ogg"/>
+    </item>
+
+    <item>
+      <title>Thomas Vander Stichele - Practical Project Maintenance</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Wed, 21 May 2008 19:25:05 -0400</pubDate>
+      <link>http://2007.guadec.org/</link>
+      <guid>http://download.gnome.org/teams/guadec/2007/videos/Thomas%20Vander%20Stichele%20-%20Practical%20Project%20Maintenance.ogg</guid>
+      <itunes:keywords>GNOME, Linux, Free Softare, Open Source</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://download.gnome.org/teams/guadec/2007/videos/Thomas%20Vander%20Stichele%20-%20Practical%20Project%20Maintenance.ogg" length="0" type="video/ogg"/>
+    </item>
+
+    <item>
+      <title>Adam Jackson - GNOME-Xorg Integration</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Wed, 21 May 2008 19:25:05 -0400</pubDate>
+      <link>http://2007.guadec.org/</link>
+      <guid>http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Adam%20Jackson%20-%20GNOME-Xorg%20Integration.ogg</guid>
+      <itunes:keywords>GNOME, Linux, Free Softare, Open Source</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Adam%20Jackson%20-%20GNOME-Xorg%20Integration.ogg" length="0" type="video/ogg"/>
+    </item>
+
+    <item>
+      <title>Alex Graveley - Crafting 3.0</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Wed, 21 May 2008 19:25:05 -0400</pubDate>
+      <link>http://2007.guadec.org/</link>
+      <guid>http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Alex%20Graveley%20-%20Crafting%203.0.ogg</guid>
+      <itunes:keywords>GNOME, Linux, Free Softare, Open Source</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Alex%20Graveley%20-%20Crafting%203.0.ogg" length="0" type="video/ogg"/>
+    </item>
+
+    <item>
+      <title>Andre Klapper - Where's My Monitoring At</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Wed, 21 May 2008 19:25:05 -0400</pubDate>
+      <link>http://2007.guadec.org/</link>
+      <guid>http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Andre%20Klapper%20-%20Where%27s%20My%20Monitoring%20At.ogg</guid>
+      <itunes:keywords>GNOME, Linux, Free Softare, Open Source</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Andre%20Klapper%20-%20Where%27s%20My%20Monitoring%20At.ogg" length="0" type="video/ogg"/>
+    </item>
+
+    <item>
+      <title>Andrew Cowie - Opening GTK+ to Java Programmers</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Wed, 21 May 2008 19:25:05 -0400</pubDate>
+      <link>http://2007.guadec.org/</link>
+      <guid>http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Andrew%20Cowie%20-%20Opening%20GTK+%20to%20Java%20Programmers.ogg</guid>
+      <itunes:keywords>GNOME, Linux, Free Softare, Open Source</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Andrew%20Cowie%20-%20Opening%20GTK+%20to%20Java%20Programmers.ogg" length="0" type="video/ogg"/>
+    </item>
+
+    <item>
+      <title>Antonio Albanes - Large scale gnome deployment at schools</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Wed, 21 May 2008 19:25:05 -0400</pubDate>
+      <link>http://2007.guadec.org/</link>
+      <guid>http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Antonio%20Albanes%20-%20Large%20scale%20gnome%20deployment%20at%20schools.ogg</guid>
+      <itunes:keywords>GNOME, Linux, Free Softare, Open Source</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Antonio%20Albanes%20-%20Large%20scale%20gnome%20deployment%20at%20schools.ogg" length="0" type="video/ogg"/>
+    </item>
+
+    <item>
+      <title>Bastien Nocera - Bluetooth and GNOME</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Wed, 21 May 2008 19:25:05 -0400</pubDate>
+      <link>http://2007.guadec.org/</link>
+      <guid>http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Bastien%20Nocera%20-%20Bluetooth%20and%20GNOME.ogg</guid>
+      <itunes:keywords>GNOME, Linux, Free Softare, Open Source</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Bastien%20Nocera%20-%20Bluetooth%20and%20GNOME.ogg" length="0" type="video/ogg"/>
+    </item>
+
+    <item>
+      <title>Behdad Esfahbod - Co-maintaining cairo</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Wed, 21 May 2008 19:25:05 -0400</pubDate>
+      <link>http://2007.guadec.org/</link>
+      <guid>http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Behdad%20Esfahbod%20-%20Co-maintaining%20cairo.ogg</guid>
+      <itunes:keywords>GNOME, Linux, Free Softare, Open Source</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Behdad%20Esfahbod%20-%20Co-maintaining%20cairo.ogg" length="0" type="video/ogg"/>
+    </item>
+
+    <item>
+      <title>Bryan Clark and Havoc Pennington - Online Desktop</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Wed, 21 May 2008 19:25:05 -0400</pubDate>
+      <link>http://2007.guadec.org/</link>
+      <guid>http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Bryan%20Clark%20and%20Havoc%20Pennington%20-%20Online%20Desktop.ogg</guid>
+      <itunes:keywords>GNOME, Linux, Free Softare, Open Source</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Bryan%20Clark%20and%20Havoc%20Pennington%20-%20Online%20Desktop.ogg" length="0" type="video/ogg"/>
+    </item>
+
+    <item>
+      <title>Doc Searls - Some observations about Linux and Business</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Wed, 21 May 2008 19:25:05 -0400</pubDate>
+      <link>http://2007.guadec.org/</link>
+      <guid>http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Doc%20Searls%20-%20Some%20observations%20about%20Linux%20and%20Business.ogg</guid>
+      <itunes:keywords>GNOME, Linux, Free Softare, Open Source</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Doc%20Searls%20-%20Some%20observations%20about%20Linux%20and%20Business.ogg" length="0" type="video/ogg"/>
+    </item>
+
+    <item>
+      <title>Don Scorgie - Project Mallard</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Wed, 21 May 2008 19:25:05 -0400</pubDate>
+      <link>http://2007.guadec.org/</link>
+      <guid>http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Don%20Scorgie%20-%20Project%20Mallard.ogg</guid>
+      <itunes:keywords>GNOME, Linux, Free Softare, Open Source</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Don%20Scorgie%20-%20Project%20Mallard.ogg" length="0" type="video/ogg"/>
+    </item>
+
+    <item>
+      <title>Eduardo Lima - Porting GNOME applications to Maemo</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Wed, 21 May 2008 19:25:05 -0400</pubDate>
+      <link>http://2007.guadec.org/</link>
+      <guid>http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Eduardo%20Lima%20-%20Porting%20GNOME%20applications%20to%20Maemo.ogg</guid>
+      <itunes:keywords>GNOME, Linux, Free Softare, Open Source</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Eduardo%20Lima%20-%20Porting%20GNOME%20applications%20to%20Maemo.ogg" length="0" type="video/ogg"/>
+    </item>
+
+    <item>
+      <title>Federico Mena-Quintero - Sabayon</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Wed, 21 May 2008 19:25:05 -0400</pubDate>
+      <link>http://2007.guadec.org/</link>
+      <guid>http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Federico%20Mena-Quintero%20-%20Sabayon.ogg</guid>
+      <itunes:keywords>GNOME, Linux, Free Softare, Open Source</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Federico%20Mena-Quintero%20-%20Sabayon.ogg" length="0" type="video/ogg"/>
+    </item>
+
+    <item>
+      <title>Iago Toral - Build Brigade</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Wed, 21 May 2008 19:25:05 -0400</pubDate>
+      <link>http://2007.guadec.org/</link>
+      <guid>http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Iago%20Toral%20-%20Build%20Brigade.ogg</guid>
+      <itunes:keywords>GNOME, Linux, Free Softare, Open Source</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Iago%20Toral%20-%20Build%20Brigade.ogg" length="0" type="video/ogg"/>
+    </item>
+
+    <item>
+      <title>Ian McKeller - Developing XUL Applications</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Wed, 21 May 2008 19:25:05 -0400</pubDate>
+      <link>http://2007.guadec.org/</link>
+      <guid>http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Ian%20McKeller%20-%20Developing%20XUL%20Applications.ogg</guid>
+      <itunes:keywords>GNOME, Linux, Free Softare, Open Source</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Ian%20McKeller%20-%20Developing%20XUL%20Applications.ogg" length="0" type="video/ogg"/>
+    </item>
+
+    <item>
+      <title>Larry Ewing - F-Spot</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Wed, 21 May 2008 19:25:05 -0400</pubDate>
+      <link>http://2007.guadec.org/</link>
+      <guid>http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Larry%20Ewing%20-%20F-Spot.ogg</guid>
+      <itunes:keywords>GNOME, Linux, Free Softare, Open Source</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Larry%20Ewing%20-%20F-Spot.ogg" length="0" type="video/ogg"/>
+    </item>
+
+    <item>
+      <title><![CDATA[Lennart Poettering - PulseAudio and GNOME, or: what's coming after EsounD?]]></title>
+      <description><![CDATA[]]></description>
+      <pubDate>Wed, 21 May 2008 19:25:05 -0400</pubDate>
+      <link>http://2007.guadec.org/</link>
+      <guid>http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Lennart%20Poettering%20-%20PulseAudio%20and%20GNOME,%20or:%20what%27s%20coming%20after%20EsounD%3f.ogg</guid>
+      <itunes:keywords>GNOME, Linux, Free Softare, Open Source</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Lennart%20Poettering%20-%20PulseAudio%20and%20GNOME,%20or:%20what%27s%20coming%20after%20EsounD%3f.ogg" length="0" type="video/ogg"/>
+    </item>
+
+    <item>
+      <title>Lightning Talks</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Wed, 21 May 2008 19:25:05 -0400</pubDate>
+      <link>http://2007.guadec.org/</link>
+      <guid>http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Lightning%20Talks.ogg</guid>
+      <itunes:keywords>GNOME, Linux, Free Softare, Open Source</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Lightning%20Talks.ogg" length="0" type="video/ogg"/>
+    </item>
+
+    <item>
+      <title>Lucas Rocha - Latest Evolutions in Hildon Desktop</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Wed, 21 May 2008 19:25:05 -0400</pubDate>
+      <link>http://2007.guadec.org/</link>
+      <guid>http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Lucas%20Rocha%20-%20Latest%20Evolutions%20in%20Hildon%20Desktop.ogg</guid>
+      <itunes:keywords>GNOME, Linux, Free Softare, Open Source</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Lucas%20Rocha%20-%20Latest%20Evolutions%20in%20Hildon%20Desktop.ogg" length="0" type="video/ogg"/>
+    </item>
+
+    <item>
+      <title>Matthew Allum - Clutter Foo</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Wed, 21 May 2008 19:25:05 -0400</pubDate>
+      <link>http://2007.guadec.org/</link>
+      <guid>http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Matthew%20Allum%20-%20Clutter%20Foo.ogg</guid>
+      <itunes:keywords>GNOME, Linux, Free Softare, Open Source</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Matthew%20Allum%20-%20Clutter%20Foo.ogg" length="0" type="video/ogg"/>
+    </item>
+
+    <item>
+      <title>Michael Meeks - Impromtu IO Grind Talk</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Wed, 21 May 2008 19:25:05 -0400</pubDate>
+      <link>http://2007.guadec.org/</link>
+      <guid>http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Michael%20Meeks%20-%20Impromtu%20IO%20Grind%20Talk.ogg</guid>
+      <itunes:keywords>GNOME, Linux, Free Softare, Open Source</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Michael%20Meeks%20-%20Impromtu%20IO%20Grind%20Talk.ogg" length="0" type="video/ogg"/>
+    </item>
+
+    <item>
+      <title>Murray Cumming - libgnomedb</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Wed, 21 May 2008 19:25:05 -0400</pubDate>
+      <link>http://2007.guadec.org/</link>
+      <guid>http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Murray%20Cumming%20-%20libgnomedb.ogg</guid>
+      <itunes:keywords>GNOME, Linux, Free Softare, Open Source</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Murray%20Cumming%20-%20libgnomedb.ogg" length="0" type="video/ogg"/>
+    </item>
+
+    <item>
+      <title>Naba Kumar - Integrated communication framework for GNOME - elements of Telepathy</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Wed, 21 May 2008 19:25:05 -0400</pubDate>
+      <link>http://2007.guadec.org/</link>
+      <guid>http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Naba%20Kumar%20-%20Integrated%20communication%20framework%20for%20GNOME%20-%20elements%20of%20Telepathy.ogg</guid>
+      <itunes:keywords>GNOME, Linux, Free Softare, Open Source</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Naba%20Kumar%20-%20Integrated%20communication%20framework%20for%20GNOME%20-%20elements%20of%20Telepathy.ogg" length="0" type="video/ogg"/>
+    </item>
+
+    <item>
+      <title>Philip Van Hoof - An E-mail framework for mobile devices</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Wed, 21 May 2008 19:25:05 -0400</pubDate>
+      <link>http://2007.guadec.org/</link>
+      <guid>http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Philip%20Van%20Hoof%20-%20An%20E-mail%20framework%20for%20mobile%20devices.ogg</guid>
+      <itunes:keywords>GNOME, Linux, Free Softare, Open Source</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Philip%20Van%20Hoof%20-%20An%20E-mail%20framework%20for%20mobile%20devices.ogg" length="0" type="video/ogg"/>
+    </item>
+
+    <item>
+      <title>Philippe Normand - Elisa: Media-Center for masses</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Wed, 21 May 2008 19:25:05 -0400</pubDate>
+      <link>http://2007.guadec.org/</link>
+      <guid>http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Philippe%20Normand%20-%20Elisa:%20Media-Center%20for%20masses.ogg</guid>
+      <itunes:keywords>GNOME, Linux, Free Softare, Open Source</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Philippe%20Normand%20-%20Elisa:%20Media-Center%20for%20masses.ogg" length="0" type="video/ogg"/>
+    </item>
+
+    <item>
+      <title>Raphael Slinckx - Telepathy</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Wed, 21 May 2008 19:25:05 -0400</pubDate>
+      <link>http://2007.guadec.org/</link>
+      <guid>http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Raphael%20Slinckx%20-%20Telepathy.ogg</guid>
+      <itunes:keywords>GNOME, Linux, Free Softare, Open Source</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Raphael%20Slinckx%20-%20Telepathy.ogg" length="0" type="video/ogg"/>
+    </item>
+
+    <item>
+      <title>Robert Love - Google and Open Source</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Wed, 21 May 2008 19:25:05 -0400</pubDate>
+      <link>http://2007.guadec.org/</link>
+      <guid>http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Robert%20Love%20-%20Google%20and%20Open%20Source.ogg</guid>
+      <itunes:keywords>GNOME, Linux, Free Softare, Open Source</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Robert%20Love%20-%20Google%20and%20Open%20Source.ogg" length="0" type="video/ogg"/>
+    </item>
+
+    <item>
+      <title>Stormy Peters - Would you do it for free again</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Wed, 21 May 2008 19:25:05 -0400</pubDate>
+      <link>http://2007.guadec.org/</link>
+      <guid>http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Stormy%20Peters%20-%20Would%20you%20do%20it%20for%20free%20again.ogg</guid>
+      <itunes:keywords>GNOME, Linux, Free Softare, Open Source</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Stormy%20Peters%20-%20Would%20you%20do%20it%20for%20free%20again.ogg" length="0" type="video/ogg"/>
+    </item>
+
+    <item>
+      <title>Thomas Vander Stichele - Practical Project Maintenance</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Wed, 21 May 2008 19:25:05 -0400</pubDate>
+      <link>http://2007.guadec.org/</link>
+      <guid>http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Thomas%20Vander%20Stichele%20-%20Practical%20Project%20Maintenance.ogg</guid>
+      <itunes:keywords>GNOME, Linux, Free Softare, Open Source</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Thomas%20Vander%20Stichele%20-%20Practical%20Project%20Maintenance.ogg" length="0" type="video/ogg"/>
+    </item>
+
+    <item>
+      <title>Trent Lloyd - Avahi</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Wed, 21 May 2008 19:25:05 -0400</pubDate>
+      <link>http://2007.guadec.org/</link>
+      <guid>http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Trent%20Lloyd%20-%20Avahi.ogg</guid>
+      <itunes:keywords>GNOME, Linux, Free Softare, Open Source</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Trent%20Lloyd%20-%20Avahi.ogg" length="0" type="video/ogg"/>
+    </item>
+
+    <item>
+      <title>William Jon McCann - Building a Modern Multi-User Desktop</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Wed, 21 May 2008 19:25:05 -0400</pubDate>
+      <link>http://2007.guadec.org/</link>
+      <guid>http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/William%20Jon%20McCann%20-%20Building%20a%20Modern%20Multi-User%20Desktop.ogg</guid>
+      <itunes:keywords>GNOME, Linux, Free Softare, Open Source</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/William%20Jon%20McCann%20-%20Building%20a%20Modern%20Multi-User%20Desktop.ogg" length="0" type="video/ogg"/>
+    </item>
+
+    <item>
+      <title>Zaheer Abbas Merali - GStreamer - more than just playback</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Wed, 21 May 2008 19:25:05 -0400</pubDate>
+      <link>http://2007.guadec.org/</link>
+      <guid>http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Zaheer%20Abbas%20Merali%20-%20GStreamer%20-%20more%20than%20just%20playback.ogg</guid>
+      <itunes:keywords>GNOME, Linux, Free Softare, Open Source</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://ftp.gnome.org/pub/GNOME/teams/guadec/2007/videos/Zaheer%20Abbas%20Merali%20-%20GStreamer%20-%20more%20than%20just%20playback.ogg" length="0" type="video/ogg"/>
+    </item>
+
+  </channel>
+</rss>

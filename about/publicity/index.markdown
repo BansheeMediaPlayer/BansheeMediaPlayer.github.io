@@ -88,7 +88,7 @@ Interested in interviewing a Banshee maintainer or having them speak at your LUG
   <dd>Aaron Bockover gave a talk at MeeGo Conference 2010, on Monday November 15, 2010 in Dublin.   <a href="http://conference2010.meego.com/session/dive-banshee-meego-netbook-media-player-0">Read the abstract, watch the talk</a> (missing audio first couple minutes)</dd>
 
   <dt>Talk at GUADEC 2010</dt>
-  <dd>Gabriel Burt gave a talk at GUADEC, the annual GNOME conference, on Friday July 30, 2010 in The Hague.  <a href="http://download.banshee.fm/documents/2010-GUADEC-Banshee_Awesome_Factory.pdf">View slides</a> / <a href="http://ubuntudevelopers.blip.tv/file/4363767/">Watch the talk</a></dd>
+  <dd>Gabriel Burt gave a talk at GUADEC, the annual GNOME conference, on Friday July 30, 2010 in The Hague.  <a href="/documents/2010-GUADEC-Banshee_Awesome_Factory.pdf">View slides</a> / <a href="http://ubuntudevelopers.blip.tv/file/4363767/">Watch the talk</a></dd>
 
   <dt>Banshee Accessibility at CSUN 2010</dt>
   <dd>Eitan Isaacson gave a talk at <a href="http://www.csunconference.org/">CSUN 2010</a> in San Diego about his experience spearheading Banshee's accessibility effort.  <a href="http://people.gnome.org/~eitani/csun2010">View slides</a></dd>
@@ -106,7 +106,7 @@ Interested in interviewing a Banshee maintainer or having them speak at your LUG
   <dd>Aaron Bockover gave a <a href="http://2008.utosc.com/presentation/117/">talk</a>.</dd>
 
   <dt>Talks at GUADEC 2008</dt>
-  <dd>Banshee developers Aaron Bockover and Gabriel Burt gave a talk in Istanbul at <a href="http://2008.guadec.org/">GUADEC 2008</a>, the annual <a href="http://gnome.org/">GNOME</a> conference.  They gave demos of Banshee's features, talked about how easy Banshee is to extend, and discussed plans for the next couple releases.  Their <a href="http://download.banshee-project.org/documents/GUADEC-2008-Banshee_Talk.pdf">slides are available</a>.</dd>
+  <dd>Banshee developers Aaron Bockover and Gabriel Burt gave a talk in Istanbul at <a href="http://2008.guadec.org/">GUADEC 2008</a>, the annual <a href="http://gnome.org/">GNOME</a> conference.  They gave demos of Banshee's features, talked about how easy Banshee is to extend, and discussed plans for the next couple releases.  Their <a href="/documents/GUADEC-2008-Banshee_Talk.pdf">slides are available</a>.</dd>
 
   <dt>Talk at LugRadio Live 2008</dt>
   <dd>Banshee maintainers Aaron Bockover and Gabriel Burt gave a talk at LugRadio Live on April 12, 2008 in San Francisco. Banshee 1.0 Alpha 3 is demoed. <a href="http://banshee-project.org/files/lrl_2008_banshee.ogg">Download Video (114MB)</a> | <a href="http://video.google.com/videoplay?docid=629829973972985803&amp;hl=en">Watch on Google Video</a></dd>
