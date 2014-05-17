@@ -1,6 +1,7 @@
 ---
 layout: page-release
 permalink: /download/archives/1.9.5/
+redirect_from: /download/archives/1-9-5/
 title: Banshee 1.9.5
 ---
 

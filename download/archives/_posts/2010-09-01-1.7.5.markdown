@@ -1,6 +1,7 @@
 ---
 layout: page-release
 permalink: /download/archives/1.7.5/
+redirect_from: /download/archives/1-7-5/
 title: Banshee 1.7.5
 ---
 

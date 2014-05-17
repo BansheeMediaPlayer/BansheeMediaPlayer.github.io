@@ -8,6 +8,9 @@ markdown: rdiscount
 permalink: pretty
 relative_permalinks: false
 
+gems:
+  - jekyll-redirect-from
+
 paginate: 20
 paginate_path: "/blog/page:num"
 

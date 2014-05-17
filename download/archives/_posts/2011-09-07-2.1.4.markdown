@@ -1,6 +1,7 @@
 ---
 layout: page-release
 permalink: /download/archives/2.1.4/
+redirect_from: /download/archives/2-1-4/
 title: Banshee 2.1.4
 ---
 
