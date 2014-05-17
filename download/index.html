@@ -161,8 +161,11 @@ sidebar-group: download
 <h3>Development Version</h3>
 <p>See <a href="/download/development">getting the development version</a> for more information.</p>
 
+<script type="text/javascript" src="/js/scriptaculous/prototype.js"></script>
+<script type="text/javascript" src="/js/scriptaculous/scriptaculous.js"></script>
+
 <!-- Include this script inline here so that the distro/OS buttons are clickable even if not all the JS has been loaded async -->
-<script>
+<script type="text/javascript">
 var app_version = navigator.appVersion.toLowerCase ();
 var user_agent = navigator.userAgent.toLowerCase ();
 var detected_os = "unknown";
