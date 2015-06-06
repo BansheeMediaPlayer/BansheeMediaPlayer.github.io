@@ -112,9 +112,9 @@ It's quite easy to work on Banshee in Mac OS X. While resulting Banshee releases
 
     * Takes hours, but only needs to be done infrequently  
 
-          git clone git://github.com/Dynalon/bockbuild.git`  
-          cd bockbuild/profiles/banshee`  
-          ./darwin.py -bvd`
+          git clone git://github.com/Dynalon/bockbuild.git
+          cd bockbuild/profiles/banshee
+          ./darwin.py -bvd
 
 This process will likely take a few hours. Everything from GTK+, to GStreamer, to codecs, to Mono will be built in this process. When it's finished you'll be left with a full development environment for building and working on Banshee.
 
@@ -122,10 +122,10 @@ This process will likely take a few hours. Everything from GTK+, to GStreamer, t
 
     * In the **same parent folder as bockbuild**, run  
 
-          git clone git://git.gnome.org/banshee.git`  
-          cd banshee`  
-          ./bootstrap-bundle`  
-          source darwin.env`  
-          make`
+          git clone git://git.gnome.org/banshee.git
+          cd banshee
+          ./bootstrap-bundle
+          source darwin.env
+          make
 
 You can also use MonoDevelop instead of using `make`. Open Banshee.sln **after** the `./bootstrap-bunde` step and build with MonoDevelop.
