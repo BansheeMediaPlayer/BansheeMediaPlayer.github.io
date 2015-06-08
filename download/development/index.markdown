@@ -104,7 +104,7 @@ Report bugs and file patches according to the [normal process](/contribute).
 
 It's quite easy to work on Banshee in Mac OS X. While resulting Banshee releases work on OS X 10.6 (Snow Leopard) and newer, Banshee must be built on OS X 10.7 or newer (Lion).
 
-  1. **[Install XCode and the Developer Commandline Tools](http://developer.apple.com/devcenter/mac/)**
+  1. **[Install XCode and the Developer Commandline Tools](http://developer.apple.com/devcenter/mac/)** (if your AppStore tells you to upgrade your OSX version to be able to install XCode, you can probably find older versions of XCode in the **[Apple Developer's Downloads page](https://developer.apple.com/downloads/)**).
 
   2. **[Install Git](http://help.github.com/articles/set-up-git#platform-mac)**
 
