@@ -112,13 +112,11 @@ It's quite easy to work on Banshee in Mac OS X. While resulting Banshee releases
 
   4. **Build Dependencies**
 
-    * Takes hours, but only needs to be done infrequently  
+    * Takes very long, but only needs to be done infrequently (this process will likely take a few hours; everything from GTK+, to GStreamer, to codecs, to Mono will be built as part of it; when it's finished you'll be left with a full development environment for building and working on Banshee)
 
           git clone git://github.com/Dynalon/bockbuild.git
           cd bockbuild/profiles/banshee
           ./darwin.py -bvd
-
-This process will likely take a few hours. Everything from GTK+, to GStreamer, to codecs, to Mono will be built in this process. When it's finished you'll be left with a full development environment for building and working on Banshee.
 
   5. **Build Banshee**
 
