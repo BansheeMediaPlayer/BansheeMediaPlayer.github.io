@@ -106,9 +106,11 @@ It's quite easy to work on Banshee in Mac OS X. While resulting Banshee releases
 
   1. **[Install XCode and the Developer Commandline Tools](http://developer.apple.com/devcenter/mac/)** (if your AppStore tells you to upgrade your OSX version to be able to install XCode, you can probably find older versions of XCode in the **[Apple Developer's Downloads page](https://developer.apple.com/downloads/)**).
 
-  2. **[Install Git](http://help.github.com/articles/set-up-git#platform-mac)**
+  2. Launch XCode to see if it works (even if you're not going to use its UI, you need to make sure that it works ok. Sometimes trying to launch XCode will prompt you to install more tools that are required). Then close it.
 
-  3. **Build Dependencies**
+  3. **[Install Git](http://help.github.com/articles/set-up-git#platform-mac)**
+
+  4. **Build Dependencies**
 
     * Takes hours, but only needs to be done infrequently  
 
@@ -118,7 +120,7 @@ It's quite easy to work on Banshee in Mac OS X. While resulting Banshee releases
 
 This process will likely take a few hours. Everything from GTK+, to GStreamer, to codecs, to Mono will be built in this process. When it's finished you'll be left with a full development environment for building and working on Banshee.
 
-  4. **Build Banshee**
+  5. **Build Banshee**
 
     * In the **same parent folder as bockbuild**, run  
 
