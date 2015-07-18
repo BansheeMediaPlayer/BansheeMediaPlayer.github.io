@@ -13,7 +13,7 @@ Banshee is very easy to extend.  Its object-oriented C# codebase is modular and 
 
 Some Banshee extensions are included in the Banshee codebase, either because they're relatively basic (eg Audio CD support, the Play Queue, Podcasts suport, etc), or because their authors did the magic dance (bug filing, patch submission, style matching, iterations, etc) required.  A simpler alternative is to create a new extension within Banshee Community Extensions (BCE), a looser, lower-barrier way of developing extensions.
 
-BCE is hosted on Gitorious, a free git hosting provider.  Anybody can create an account there and clone the BCE repo and push their commits - right now, without asking anybody.
+BCE is hosted on GitHub, a free git hosting provider.  Anybody can create an account there and clone the BCE repo and push their commits - right now, without asking anybody.
 
 ### Create a Working Extension - Right Now!
 
