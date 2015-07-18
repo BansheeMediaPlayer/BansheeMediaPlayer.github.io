@@ -28,4 +28,4 @@ We welcome code contributions from anyone, whether you have a one-line fix or a 
 
 ### Write Extensions
 
-Banshee is extremely extensible, in fact most of the functionality in Banshee is implemented as extensions. Apart from official extensions, we also maintain Banshee Community Extensions hosted on Gitorious. Learn more about [extending Banshee](/contribute/write-extensions/).
+Banshee is extremely extensible, in fact most of the functionality in Banshee is implemented as extensions. Apart from official extensions, we also maintain Banshee Community Extensions hosted on GitHub. Learn more about [extending Banshee](/contribute/write-extensions/).
