@@ -24,7 +24,7 @@ It's ludicrously easy to make a new extension.  Just follow these steps, and wit
   3. Install [MonoDevelop 2.2.1](http://monodevelop.com/Download) or higher _(optional)_
   4. Open a Terminal application, and run these commands:
 
-        git clone git://gitorious.org/banshee-community-extensions/banshee-community-extensions.git
+        git clone https://github.com/BansheeMediaPlayer/banshee-community-extensions.git
         cd banshee-community-extensions
         ./create-extension Foo
         make run
