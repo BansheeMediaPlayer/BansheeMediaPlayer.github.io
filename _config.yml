@@ -4,9 +4,7 @@ url: http://banshee.fm
 rss_path : /feed/
 atom_path : /feed/atom/
 
-markdown: rdiscount
 permalink: pretty
-relative_permalinks: false
 
 gems:
   - jekyll-redirect-from
