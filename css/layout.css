@@ -246,7 +246,6 @@ h3.download {
 #content-header.home-slide-show {
     padding: 10px;
     margin: 0;
-    height: 335px;
 }
 
 #screenshot-slide img {
@@ -256,14 +255,10 @@ h3.download {
 }
 
 #screenshot-slide {
-    float: left;
     background-repeat: no-repeat;
-    height: 335px;
 }
 
 #content-header.home-slide-show .text {
-    float: left;
-    width: 458px;
     padding: .75em 20px 0 20px;
 }
 
