@@ -6,7 +6,7 @@ atom_path : /feed/atom/
 
 permalink: pretty
 
-gems:
+plugins:
   - jekyll-redirect-from
 
 paginate: 20
