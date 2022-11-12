@@ -36,4 +36,8 @@ Those release notes pages can be distinguished from regular posts based on their
 
 If you find a problem on the web site, or if you want to help improve it, please [file an issue on GitHub](https://github.com/BansheeMediaPlayer/BansheeMediaPlayer.github.io/issues), or [submit a pull request](https://github.com/BansheeMediaPlayer/BansheeMediaPlayer.github.io/pulls).
 
-To make sure your proposed changes work as expected, please validate them by generating the web site locally with Jekyll.
+To make sure your proposed changes work as expected, please validate them by generating the web site locally with Jekyll. You can also use GitHub codespaces or GitPod:
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=master&repo=16046940&machine=basicLinux32gb&devcontainer_path=.devcontainer%2Fdevcontainer.json&location=WestEurope)
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/BansheeMediaPlayer/BansheeMediaPlayer.github.io)
